@@ -1,0 +1,33 @@
+h3{
+    color: blue;
+}
+p,a{
+    color:green;
+
+    color: green;
+}
+
+li{
+    list-style-type:none;
+}
+
+small.special, li.special{
+    color:orchid;
+    font-weight: bold;
+}
+
+ul,small,sub,sup{
+    color:red;
+    font-size: 110%;
+    background-color: black;
+    padding: 5px;
+
+}
+
+body h1+p .special{
+
+}
+
+
+
+
